@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 234 234" width="234" height="234">
+	<title>booking-confirm-svg</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #861d3d } 
+		.shp1 { fill: #651d32 } 
+		.shp2 { fill: #551326 } 
+		.shp3 { fill: #ffffff } 
+	</style>
+	<path id="Layer" class="shp0" d="M117 234C52.3 234 0 181.7 0 117C0 52.3 52.3 0 117 0C181.7 0 234 52.3 234 117C234 181.7 181.7 234 117 234Z" />
+	<path id="Layer" class="shp1" d="M117 221C59.49 221 13 174.51 13 117C13 59.49 59.49 13 117 13C174.51 13 221 59.49 221 117C221 174.51 174.51 221 117 221Z" />
+	<path id="Layer" class="shp2" d="M117 205C68.34 205 29 165.66 29 117C29 68.34 68.34 29 117 29C165.66 29 205 68.34 205 117C205 165.66 165.66 205 117 205Z" />
+	<path id="Layer" class="shp3" d="M71 117.44L78.95 110.13C88.26 114.61 94.15 118.02 104.61 125.44C124.27 103.23 137.26 91.96 161.41 77L164 82.93C144.09 100.23 129.5 119.5 108.51 157C95.56 141.81 86.91 132.13 71 117.44Z" />
+</svg>
